@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+.th1{
+	width:200px;
+	height:200px;
+	border:2px solid black;
+	position:absolute;
+	top:40%;
+	left:30%;
+	background-color:lightblue;
+}
+#th2{
+	text-align:center;
+	color: purple;
+	position:absolute;
+	top:40%;
+	left:30%
+	
+	
+}
